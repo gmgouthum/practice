@@ -1,0 +1,15 @@
+===============================================================================
+PROJECT NAME
+===============================================================================
+Version: 1.0.0
+Author: Your Name
+Date: 2026-07-23
+
+-------------------------------------------------------------------------------
+DESCRIPTION
+-------------------------------------------------------------------------------
+A brief description of what this project does and the problem it solves.
+
+Example: This project is a command-line tool for organizing and backing up
+photographs. It automatically sorts images by date, removes duplicates, and
+compresses files to save disk space.
